@@ -9,7 +9,10 @@
 <body>
 	<input type="button" value="What  is  the  meaning  of  life?"
 	onclick="SecretToEverything()" />
-		<input type="button" value="What else?" onclick="WhatElse()" />
+<<<<<<< HEAD
 		<input type="text" />
+=======
+		<input type="button" value="What else?" onclick="WhatElse()" />
+>>>>>>> question_two
 </body>
 </html>
